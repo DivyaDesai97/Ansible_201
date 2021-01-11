@@ -1,5 +1,5 @@
 --- 
-- hosts: demo
+- hosts: task1
   become: yes
   vars:
     file: information.txt
